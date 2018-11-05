@@ -74,6 +74,9 @@ header h1{
     
 }
 
+
+
+
 nav{
     background: #333;
 }
@@ -84,7 +87,7 @@ nav ul{
 }
 
 nav a{
-    text-decoration: none;
+    text-decoration: none !important;
     text-align: center;
     color: #fff;
     font-size: 19px;
@@ -250,6 +253,51 @@ footer{
     letter-spacing: 1.8px;
     padding-top: 9px;
 }
+
+/*==============ABOUT PAGE JOHN LENNON===============*/
+
+.beatlebio{
+    display: flex;
+    
+}
+
+.parjohn{
+    
+}
+.lennon{
+    float: left;
+    padding-right: 13px;
+    
+}
+.biojohn h3{
+    font-family: 'Oswald', sans-serif;
+    padding: 5px 0;
+    color: #ff1a1a;
+    
+}
+.biojohn{
+    width: 25%;
+    
+}
+
+/*==============ABOUT PAGE PAUL McCARTNEY===============*/
+
+.mccartney{
+    float: left;
+    padding-right: 13px;
+    
+}
+.biopaul h3{
+    font-family: 'Oswald', sans-serif;
+    padding: 5px 0;
+    color: #ff1a1a;
+    
+}
+.biopaul{
+    width: 25%;
+    margin-left: 37px
+}
+
 
 
 
