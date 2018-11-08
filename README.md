@@ -9,3 +9,13 @@ The first layout for this project I decided on is a simple conventional looking 
     The navbar has 4 links so far and I've used transitions and hover effects with CSS3.
     
     I've included 2 section areas with the main section holding the images of the band members and the second section is using Bootstrap to create 3 columns with some additional information and the links to social media.
+    
+    The footer I've kept consistent with the color contrast.
+    
+    The "About" page is a fexbox container with 4 divs and I've used floats to wrap the text around the images inside the divs.
+    
+    The "Media" page just contains embedded youtube videos but I dont like the way it takes over the screen but it IS  responsive!
+    
+    That's it so far........nearly done!
+    
+    Having an issue uploading recent files to git hub in Cloud 9,It's not responding or saving changes and unable to update git files.
