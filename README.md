@@ -19,3 +19,9 @@ The first layout for this project I decided on is a simple conventional looking 
     That's it so far........nearly done!
     
     Having an issue uploading recent files to git hub in Cloud 9,It's not responding or saving changes and unable to update git files.
+    
+    Just cleared the Chrome cache and it seems to be working again.All good there.
+    
+    The "Media page" I have adjusted the width and height properties and also included a bootstrap class of 'container-fluid' to make it responsive.
+    
+    I also added "justify-content" to center the last video in the line to the center.....Worked pretty good!
