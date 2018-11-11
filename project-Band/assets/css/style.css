@@ -262,6 +262,82 @@ footer{
     padding-top: 9px;
 }
 
+/*==============CONTACT PAGE===================*/
+
+.contact-title{
+    text-align: center;
+    padding: 15px 0;
+    font-family: 'Oswald', sans-serif;
+    color: #ff1a1a;
+    letter-spacing: 9px;
+    margin: 19px 0;
+    
+    
+}
+
+.contact{
+    color: #fff;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    padding: 10px;
+    margin-top: 10px
+   
+}
+
+
+
+#contact-form{
+    padding: 25px;
+    justify-content: center;
+    width:65%;
+    text-align: center;
+    margin: auto;
+    background-color: #000;
+    color: #ff1a1a;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 3px;
+    font-size: 19px;
+    margin-top: 18px;
+    border-radius: 5px;
+    
+    
+    
+}
+
+button{
+    font-family: 'Oswald', sans-serif;
+    border: 1px solid red;
+    border-radius: 5px;
+    background: lightgray;
+    padding: 13px;
+    margin-top: 22px;
+    font-size: 22px
+}
+
+#contact-form input{
+    width: 100%;
+    display: block;
+    height: 35px;
+    background: lightgray;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    
+    
+    
+}
+
+#contact-form textarea{
+    width: 100%;
+    display: block;
+    
+    background: lightgray;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
 
 
 

@@ -14,7 +14,6 @@ The first layout for this project I decided on is a simple conventional looking 
     
     The "About" page is a fexbox container with 4 divs and I've used floats to wrap the text around the images inside the divs.
     
-    The "Media" page just contains embedded youtube videos but I dont like the way it takes over the screen but it IS  responsive!
     
     That's it so far........nearly done!
     
@@ -27,3 +26,5 @@ The first layout for this project I decided on is a simple conventional looking 
     It contains some mp3 and iframe links to youtube videos.
     
     I also added "justify-content" to center the last video in the line to the center.....Worked pretty good!
+    
+    Finally I added the contact page with a basic form,again keeping within the color scheme.

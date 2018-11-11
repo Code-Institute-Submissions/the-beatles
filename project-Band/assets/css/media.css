@@ -271,7 +271,7 @@ footer{
     flex-direction: column;
     background: #333;
     width: 30%;
-    padding: 26px;
+    padding: 6px;
     text-align: center;
     
 }
@@ -279,7 +279,7 @@ footer{
 .mp3{
     display: flex;
     background: #333;
-    padding: 28px 0;
+    padding: 28px ;
     width: 100%;
     justify-content: center;
 }
