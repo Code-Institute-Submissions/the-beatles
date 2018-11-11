@@ -24,4 +24,6 @@ The first layout for this project I decided on is a simple conventional looking 
     
     The "Media page" I have adjusted the width and height properties and also included a bootstrap class of 'container-fluid' to make it responsive.
     
+    It contains some mp3 and iframe links to youtube videos.
+    
     I also added "justify-content" to center the last video in the line to the center.....Worked pretty good!

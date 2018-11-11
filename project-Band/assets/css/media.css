@@ -268,9 +268,31 @@ footer{
 }
 .audio{
     display: flex;
-    background: green;
-    width: 100%;
+    flex-direction: column;
+    background: #333;
+    width: 30%;
+    padding: 26px;
+    text-align: center;
+    
 }
+
+.mp3{
+    display: flex;
+    background: #333;
+    padding: 28px 0;
+    width: 100%;
+    justify-content: center;
+}
+
+.mp3 p{
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+    color: #ff1a1a;
+    padding: 5px;
+    
+    
+}
+
 
 
 
@@ -295,7 +317,12 @@ footer{
     padding: 10px;
     background: #000;
     justify-content: center;
+    width: 70%;
     
+}
+
+.media{
+    display: flex;
 }
 
 
