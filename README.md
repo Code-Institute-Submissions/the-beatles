@@ -1,3 +1,7 @@
+This is the project I've created as the first milestone project.I is based on 60's Rock Band 'The Beatles'.
+It features a 
+
+
 Hi all.
 
 The first layout for this project I decided on is a simple conventional looking site with a title and navbar underneath which is all I have completed so far.
