@@ -270,8 +270,7 @@ footer{
     display: flex;
     flex-direction: column;
     background: #333;
-    width: 30%;
-    padding: 6px;
+    width: 100%;
     text-align: center;
     
 }
@@ -279,51 +278,47 @@ footer{
 .mp3{
     display: flex;
     background: #333;
-    padding: 28px ;
-    width: 100%;
+    padding: 19px ;
+    
     justify-content: center;
 }
 
 .mp3 p{
-    font-family: 'Oswald', sans-serif;
-    letter-spacing: 1px;
+    font-family: 'Oswald', sans-serif !important;
+    letter-spacing: 3px;
+    font-size: 24px;
     color: #ff1a1a;
-    padding: 5px;
-    
-    
-}
-
-
-
-
-.vid-title{
-    background: #333;
-    text-align: center;
-    font-family: 'Oswald', sans-serif;
-    padding: 6px;
-    color: #ff1a1a;
+    padding-top: 17px;
+    width: 100%
     
 }
 
-.vid5{
-    justify-content: center;
-}
 
-
-
-.video{
-    display: flex;
-    flex-wrap: wrap;
-    padding: 10px;
-    background: #000;
-    justify-content: center;
-    width: 70%;
+.mp3 audio{
+    width: 80%;
     
 }
 
-.media{
-    display: flex;
+.videowrapper{
+    width: 100%;
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    position: relative;
+    
 }
+
+.videowrapper iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    width: 100%;
+    height: 100%;
+}
+
+
 
 
 /*==========   MEDIA QUERYS   ===============*/
